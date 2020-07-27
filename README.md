@@ -12,6 +12,7 @@ Log in.
 Users can report an incident.
 View all reports in the area.
 Create an alert.
+Alert will display
 
 Relationships:
 User- should be able to look at incidents in the area
@@ -33,11 +34,15 @@ What is your name ?
 What district are you located in?
 
 
+
 After Sign up / Sign In is completed 
-Welcome {#user}
-Type “activity” to see active in your area
-Type “report” to report an incident in your area 
-User should see activity/incidents reported in home/district.
+1. Welcome {#user}
+2. ype “activity” to see reports in your area.
+3. Type “report” to report an incident in your area.
+3. If the user types “activity”,  app shows activity/incidents reported in the district. 
+4. If user types “report” (It should ask user for “Name” , “District” , “Incident”) 
+Your report was successful. 
+
 
 
 
