@@ -1,5 +1,4 @@
 # Mod-1-app
-Guardian app
 Guardian App	
 
 The Guardian App-  An app where users are able to report potentially fatal incidents in nearby locations.
@@ -37,7 +36,7 @@ What district are you located in?
 
 After Sign up / Sign In is completed 
 1. Welcome {#user}
-2. ype “activity” to see reports in your area.
+2. Type “activity” to see reports in your area.
 3. Type “report” to report an incident in your area.
 3. If the user types “activity”,  app shows activity/incidents reported in the district. 
 4. If user types “report” (It should ask user for “Name” , “District” , “Incident”) 
@@ -63,8 +62,9 @@ Report -> Location
 
 Many to Many:
  Location -> Report
+
 Join:
--  Report to User 
+- Report to User 
 - Report belongs to Location
 
 
