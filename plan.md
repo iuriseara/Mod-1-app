@@ -38,9 +38,11 @@ After Sign up / Sign In is completed
 1. Welcome {#user}
 2. Type “activity” to see reports in your area.
 3. Type “report” to report an incident in your area.
-3. If the user types “activity”,  app shows activity/incidents reported in the district. 
-4. If user types “report” (It should ask user for “Name” , “District” , “Incident”) 
-Your report was successful. 
+4. If the user types “activity”,  app shows activity/incidents reported in the district. 
+5. If user types “report” (It should ask user for “Name” , “District” , “Incident”) 
+6. Your report was successful. 
+
+
 
 
 
