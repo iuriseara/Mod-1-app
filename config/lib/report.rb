@@ -3,4 +3,3 @@ class Report < ActiveRecord::Base
     belongs_to :locations
 end
 
-end

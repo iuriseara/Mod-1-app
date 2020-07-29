@@ -1,3 +1,4 @@
 class Location < ActiveRecord::Base
-   belongs to :reports
+   has_many :reports
+   has_many :users, through: :reports
 end

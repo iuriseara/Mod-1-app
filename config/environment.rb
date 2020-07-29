@@ -9,3 +9,4 @@ ActiveRecord::Base.establish_connection(
 ActiveRecord::Base.logger = Logger.new(STDOUT)
 
 require_all './config/lib'
+require_all './bin/run.rb'
